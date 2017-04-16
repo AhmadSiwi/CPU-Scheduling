@@ -1,4 +1,4 @@
-# The-scheduler-Assignment
+# CPU-Scheduling
 Inputs : Type of scheduler + no of Processes + required information about each process according to the scheduler type.
 
 Note : Don't ask the user for unused info
